@@ -1,13 +1,10 @@
 # Ex.No: 1 To develop an application that uses GUI Components with Fonts and Colors. 
 Note: Create button for colors and fonts while clicking color or font button should change 
 
-
 ## AIM:
-
 To create an application that uses GUI Components with Fonts and Colors using Android Studio.
 
 ## EQUIPMENTS REQUIRED:
-
 Latest Version Android Studio
 
 ## ALGORITHM:
@@ -86,14 +83,11 @@ Registeration Number : 212222040008
 package com.example.guicomponents;
 
 import android.graphics.Color;
-
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
-
 import androidx.appcompat.app.AppCompatActivity;
-
 import com.example.guicomponents.R;
 
 public class MainActivity extends AppCompatActivity
@@ -150,7 +144,8 @@ public class MainActivity extends AppCompatActivity
 ```
 
 ## OUTPUT
-![IMG-20240311-WA0003](https://github.com/AnnBlessy/GUI-components/assets/119477835/8132504e-b604-45be-b7dc-4f8f32f495e1)         ![IMG-20240311-WA0001](https://github.com/AnnBlessy/GUI-components/assets/119477835/59450d81-c5b5-4ead-8c0e-19de9657bce9)          ![IMG-20240311-WA0002](https://github.com/AnnBlessy/GUI-components/assets/119477835/c97e5cad-ab40-42f6-9612-e12708610e89)        ![IMG-20240311-WA0004](https://github.com/AnnBlessy/GUI-components/assets/119477835/3ac502ad-525b-4616-8a44-94e0147f4065)       ![IMG-20240311-WA0005](https://github.com/AnnBlessy/GUI-components/assets/119477835/f08b2a4a-03f9-4824-b042-35c1a761adfd)
+![IMG-20240311-WA0003](https://github.com/AnnBlessy/GUI-components/assets/119477835/8132504e-b604-45be-b7dc-4f8f32f495e1)  ![IMG-20240311-WA0001](https://github.com/AnnBlessy/GUI-components/assets/119477835/59450d81-c5b5-4ead-8c0e-19de9657bce9)          ![IMG-20240311-WA0002](https://github.com/AnnBlessy/GUI-components/assets/119477835/c97e5cad-ab40-42f6-9612-e12708610e89)        
+![IMG-20240311-WA0004](https://github.com/AnnBlessy/GUI-components/assets/119477835/3ac502ad-525b-4616-8a44-94e0147f4065) __ ![IMG-20240311-WA0005](https://github.com/AnnBlessy/GUI-components/assets/119477835/f08b2a4a-03f9-4824-b042-35c1a761adfd)
 
 ## RESULT
 Thus a Simple Android Application that uses GUI Components with Fonts and Colors using Android Studio is developed and executed successfully.
